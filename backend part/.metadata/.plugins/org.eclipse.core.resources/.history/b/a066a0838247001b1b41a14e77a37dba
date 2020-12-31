@@ -1,0 +1,12 @@
+package forEach;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class UsingForEach {
+
+	List<Integer> list  = new ArrayList();
+	
+	
+	
+}
